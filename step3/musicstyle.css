@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(rgb(79, 76, 76),black);
+    padding-top: 40px;
+    font-family: sofia, sans-serif;
+}
+#h1tag{
+    color: white;
+    text-shadow: 0 0 3px black;
+    font-size: 45px;
+    margin: 20px auto 50px auto;
+}
+#kamandiimg{
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+    
+}
+#kamandisong{
+    margin: 0 auto;
+    width: 500px;
+}
+.kamandi{
+    width: 500px;
+    margin: 100px auto 100px auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+#aminiimg{
+    width: 500px;
+    margin-bottom: 20px;
+    height: 300px;
+}
+#aminiimg{
+    width: 500px;
+    margin-bottom: 20px;
+}
+#aminisong{
+    margin: 0 auto;
+    width: 500px;
+}
+.amini{
+    width: 500px;
+    margin: 100px auto 100px auto;
+    display: flex;
+    flex-direction: column;
+}
